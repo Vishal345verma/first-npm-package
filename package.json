@@ -1,0 +1,23 @@
+{
+  "name": "first-npm-package",
+  "version": "1.0.1",
+  "description": "My First npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal345verma/first-npm-package.git"
+  },
+  "keywords": [
+    "numbers",
+    "add"
+  ],
+  "author": "vishal345verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal345verma/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/Vishal345verma/first-npm-package#readme"
+}
